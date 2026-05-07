@@ -10,7 +10,7 @@
 
 ## Checklist
 
-- [X] 1. Fork desse repositório
+- [ ] 1. Fork desse repositório
 - [ ] 2. Substitui neste arquivo (`README.md`) de `FIXME` pelo seu nome
 - [ ] 3. Abrir o VS Code local ou o _codespaces_ para criar os arquivos respostas da avaliação. Preferível o _codespaces_.
 - [ ] 4. Responder as questões abaixos.
