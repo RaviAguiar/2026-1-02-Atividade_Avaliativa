@@ -14,5 +14,5 @@ for i in range(numero - 1):
 if testador == numero:
     print(f'{numero} é perfeito')
 
-elif testador != numero:
+else testador != numero:
     print(f'{numero} não é perfeito')
